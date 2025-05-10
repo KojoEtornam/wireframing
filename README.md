@@ -67,7 +67,7 @@ Contribution to Design: Functional elements make the product interactive, guidin
 
 
 
-                                                                            Types of Wireframes.
+                                                                            Types of Wireframes
 
 Differences Between Low-Fidelity and High-Fidelity Wireframes
 Wireframes are essential tools in the design process, but they vary in level of detail and purpose. The two main types are low-fidelity and high-fidelity wireframes, each serving different stages and goals within the design workflow.
