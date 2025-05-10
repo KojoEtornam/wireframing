@@ -64,3 +64,61 @@ Form Fields: Input fields for capturing user data (e.g., login, contact form).
 Buttons: Actionable elements like "Submit," "Cancel," or "Next" that drive the user's actions.
 
 Contribution to Design: Functional elements make the product interactive, guiding users toward completing tasks, and ensuring that the product performs as expected.
+
+
+
+                                                                            Types of Wireframes.
+
+Differences Between Low-Fidelity and High-Fidelity Wireframes
+Wireframes are essential tools in the design process, but they vary in level of detail and purpose. The two main types are low-fidelity and high-fidelity wireframes, each serving different stages and goals within the design workflow.
+
+Low-Fidelity Wireframes
+Definition
+Low-fidelity wireframes are simple, rough sketches or outlines that focus on basic layout, structure, and user flow. They do not include detailed design elements like color, typography, or real content.
+
+Characteristics
+Hand-drawn or created using basic digital tools
+
+Use of placeholders (e.g., boxes for images, lines for text)
+
+Minimal detail and interactivity
+
+Often in black and white or grayscale
+
+When to Use
+Early stages of the design process
+
+Brainstorming and idea generation
+
+Quick validation of layout and navigation
+
+To facilitate discussions with stakeholders without focusing on aesthetics
+
+Example Use Case
+Sketching out different layout options for a homepage during a planning meeting.
+
+High-Fidelity Wireframes
+Definition
+High-fidelity wireframes are detailed and polished representations that closely resemble the final product in terms of layout, content, and sometimes interactivity.
+
+Characteristics
+Digitally produced with design software (e.g., Figma, Adobe XD)
+
+Includes real content, images, and UI elements
+
+Accurate spacing, fonts, and colors (though sometimes still grayscale)
+
+May include interaction details or be part of a prototype
+
+When to Use
+Later stages of the design process
+
+Before development begins
+
+For user testing and stakeholder approval
+
+When a detailed visual guide is needed for developers
+
+Example Use Case
+Creating a detailed design of a mobile checkout screen to test usability with real users.
+                
